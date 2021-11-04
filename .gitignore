@@ -8,8 +8,9 @@
 *.dll
 *.so
 *.dylib
-package.json
 boss.json
+boss-lock.json
+boss_modules/
 tmp/
 # Test binary, build with `go test -c`
 *.test
